@@ -1,1 +1,0 @@
-docker exec -it dev_db psql postgres://xoufzdmwtnofgt:55ec295dbbea1a417bddf8dd67a4badbb1469041b040d5192babe3920cc9df1a@ec2-34-252-251-16.eu-west-1.compute.amazonaws.com:5432/d1h6vqv8ha0vio

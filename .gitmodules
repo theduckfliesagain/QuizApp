@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = ../QuizAppClient.git
+[submodule "api"]
+	path = api
+	url = ../QuizAppServer
